@@ -15,5 +15,5 @@ public final class Main extends JavaPlugin {
     getCommand("enemyDown").setExecutor(enemyDownCommand);
     getCommand("enemySpawn").setExecutor(enemySpawnCommand);
   }
-
+git commit --amend
 }
