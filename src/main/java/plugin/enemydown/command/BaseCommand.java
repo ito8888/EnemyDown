@@ -41,3 +41,4 @@ public abstract class BaseCommand implements CommandExecutor {
    */
   public abstract boolean onExecuteNPCCommand(CommandSender sender, Command command, String label, String[] args);
 }
+
